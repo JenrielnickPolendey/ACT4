@@ -1,0 +1,31 @@
+obj {
+    background-color: aquamarine;
+}
+h1{
+    color: blue;
+}
+
+.pic, p {
+    width: 100px;
+    display: flex;
+
+}
+
+.pic {
+    padding-left: 100px;
+}
+
+.top {
+    width: 100%;
+    margin: auto;
+}
+
+.bottom {
+    display: flex;
+    width: 100%;
+}
+
+.leftdiv, .rightdiv {
+    width: 50%;
+    overflow: auto;
+}
